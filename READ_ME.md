@@ -24,6 +24,7 @@ By using Kaggle's Geopolitical Conflict Risk dataset, I applied classification a
 │   └── Capstone Two - Modeling.ipynb
 │
 └── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    ├── model_metrics.md
     ├── Capstone Two - Final Report.pdf
     └── Capstone Two - Presentation.pptx
 ```
